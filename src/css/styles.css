@@ -1,0 +1,53 @@
+@import url('https://fonts.cdnfonts.com/css/chalet');
+
+* { 
+    padding: 0;
+    margin: 0;
+}
+
+.cabecalho { 
+    background: black;
+    display: flex;
+}
+
+.cabecalho .logo { 
+    display: flex;
+    margin: 8px 60px;
+}
+
+.cabecalho .logo hr { 
+    height: 20px;
+    margin-top:10px;
+}
+
+.cabecalho .logo img { 
+  padding: 10px;
+  height: 20px;
+}
+
+.menu li a { 
+    text-decoration: none;
+    color: #fff;
+}
+
+.home { 
+    background: url('../img/bg-main.png') center/cover no-repeat;
+    height: 660px;
+}
+
+.home .conteudo  .lista-de-jogos { 
+    max-width: 140px;
+    display: flex;
+    padding: 260px 0;
+    margin-left:116px;
+}
+
+.home .conteudo  .lista-de-jogos img {
+    margin: 10px;
+}
+
+.home img { 
+    width: auto;
+}
+
+
