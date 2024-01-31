@@ -2,6 +2,7 @@
 
 Bem-vindo ao repositório da Página Web inspirada na página oficial do GTA V. Este documento oferece orientações sobre como explorar, personalizar e contribuir para esta plataforma online que captura a essência do universo GTA V.
 ![Home](https://github.com/Vitorialuz229/Projeto-Landing-Page-GTA/assets/110250731/4558ab2f-1171-4f63-840c-8b3387c91e5e)
+![Captura de tela 2024-01-31 151120](https://github.com/Vitorialuz229/Projeto-Landing-Page-GTA/assets/110250731/de48272f-a664-4690-b7bb-fc732fc66e1e)
 ![Compra](https://github.com/Vitorialuz229/Projeto-Landing-Page-GTA/assets/110250731/5abe7766-c29a-4098-bc34-355e9ae3cfdc)
 
 # Estrutura do Projeto
