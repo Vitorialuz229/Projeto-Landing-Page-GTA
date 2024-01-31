@@ -1,6 +1,8 @@
 ## Página Web Inspirada no GTA Official Page
 
 Bem-vindo ao repositório da Página Web inspirada na página oficial do GTA V. Este documento oferece orientações sobre como explorar, personalizar e contribuir para esta plataforma online que captura a essência do universo GTA V.
+![Home](https://github.com/Vitorialuz229/Projeto-Landing-Page-GTA/assets/110250731/4558ab2f-1171-4f63-840c-8b3387c91e5e)
+![Compra](https://github.com/Vitorialuz229/Projeto-Landing-Page-GTA/assets/110250731/5abe7766-c29a-4098-bc34-355e9ae3cfdc)
 
 # Estrutura do Projeto
 */index.html:* Página inicial que reflete o design da página oficial do GTA V, apresentando informações sobre o jogo, trailers e links para seções específicas.
